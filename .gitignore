@@ -1,0 +1,10 @@
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompilecache
+*.opt
+*.~u
+*.ini
+*.7z
+.venv
+.vscode
