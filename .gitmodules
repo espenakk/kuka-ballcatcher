@@ -1,0 +1,3 @@
+[submodule "ros2_kuka"]
+	path = ros2_kuka
+	url = git@github.com:espenakk/ros2_kuka.git
